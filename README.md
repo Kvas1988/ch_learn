@@ -13,6 +13,8 @@ tags:
 6. [Optimizing Quries](06_Optimizing_queries.md)
 7. [Best Practicies & Anti-patterns](07_Best_Practicies.md)
 
+[Additional solution to course](./sql/)
+
 # Resources
 - [Clickhouse Learn](https://learn.clickhouse.com)
 - [Clickhouse Learn repo](https://github.com/ClickHouse/clickhouse-academy/tree/main)
